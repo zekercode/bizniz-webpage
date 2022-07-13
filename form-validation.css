@@ -1,0 +1,22 @@
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+
+.logo-link {
+  color: #F05454;
+}
+
+.logo-link:hover {
+  color: #E83A14;
+}
+
+.logo-text {
+
+    font-family: 'Bungee Shade', cursive;
+
+text-align: 0 auto;
+    font-size: 4rem;
+}
